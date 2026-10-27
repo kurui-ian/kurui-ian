@@ -207,37 +207,6 @@
 
 <br/>
 
-<!-- Interactive Connect Four Game Section -->
-<!-- START GAME -->
-<details open>
-<summary><h3> 🔴 <b>Play Connect Four vs Ian's AI Bot!</b> <i>(Click a column to drop a chip)</i></h3></summary>
-<br/>
-
-<div align="center">
-
-| [ **Drop 1 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C1&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 2 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C2&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 3 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C3&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 4 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C4&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 5 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C5&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 6 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C6&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 7 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C7&body=Click+%27Submit+new+issue%27+to+make+your+move!) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
-
-<br/>
-
-<p><b>You:</b> 🔴 You (Visitor) &nbsp;|&nbsp; <b>Opponent:</b> 🟡 Ian's AI Bot</p>
-<p>Need a reset? <a href="https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cnew&body=Click+%27Submit+new+issue%27+to+start+a+new+game!">🔄 <strong>Start a New Game</strong></a></p>
-
-<p><sub>⚡ Interactive GitHub Action Game: Clicking a column opens an issue that automatically drops your chip & triggers a counter-move!</sub></p>
-
-</div>
-
-</details>
-<!-- END GAME -->
-
 <br/>
 
 <!-- Connect & Footer -->
