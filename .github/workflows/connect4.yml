@@ -1,4 +1,4 @@
-name: Chess Game
+name: Connect Four Game
 
 on:
   issues:
@@ -10,12 +10,12 @@ permissions:
   issues: write
 
 concurrency:
-  group: chess-game
+  group: connect4-game
   cancel-in-progress: false
 
 jobs:
   play:
-    if: startsWith(github.event.issue.title, 'chess|') || github.event_name == 'workflow_dispatch'
+    if: startsWith(github.event.issue.title, 'connect4|') || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -26,10 +26,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install chess
-
-      - name: Run Chess Move
+      - name: Run Connect 4 Move
         env:
           EVENT_ISSUE_TITLE: ${{ github.event.issue.title }}
           EVENT_ISSUE_NUMBER: ${{ github.event.issue.number }}
@@ -37,11 +34,11 @@ jobs:
           REPOSITORY: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python .github/scripts/play_chess.py
+          python .github/scripts/play_connect4.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md chess_games/game.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(chess): update board for ${{ github.event.issue.title || 'manual trigger' }}" && git push)
+          git add README.md connect4_games/game.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore(game): update Connect 4 board for ${{ github.event.issue.title || 'manual trigger' }}" && git push)

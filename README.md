@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
   <!-- Typing SVG Header -->
   <a href="https://kurui.xyz">
@@ -207,49 +207,36 @@
 
 <br/>
 
-<!-- Interactive Chess Game Section -->
-<!-- START CHESS -->
+<!-- Interactive Connect Four Game Section -->
+<!-- START GAME -->
+<details open>
+<summary><h3> 🔴 <b>Play Connect Four vs Ian's AI Bot!</b> <i>(Click a column to drop a chip)</i></h3></summary>
+<br/>
 
-### ♟️ Live Community Chess Game
-**Turn:** Black (⚫) | **Game:** #1
+<div align="center">
 
-| | A | B | C | D | E | F | G | H | |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **8** | <b>♜</b> | <b>♞</b> | <b>♝</b> | <b>♛</b> | <b>♚</b> | <b>♝</b> | <b>♞</b> | <b>♜</b> | **8** |
-| **7** | <b>♟</b> | <b>♟</b> | <b>♟</b> | <b>♟</b> | <b>♟</b> | <b>♟</b> | <b>♟</b> | <b>♟</b> | **7** |
-| **6** | · | · | · | · | · | · | · | · | **6** |
-| **5** | · | · | · | · | · | · | · | · | **5** |
-| **4** | · | · | · | · | · | · | · | · | **4** |
-| **3** | · | · | <b>♘</b> | · | · | · | · | · | **3** |
-| **2** | <b>♙</b> | <b>♙</b> | <b>♙</b> | <b>♙</b> | <b>♙</b> | <b>♙</b> | <b>♙</b> | <b>♙</b> | **2** |
-| **1** | <b>♖</b> | · | <b>♗</b> | <b>♕</b> | <b>♔</b> | <b>♗</b> | <b>♘</b> | <b>♖</b> | **1** |
-| | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** | |
+| [ **Drop 1 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C1&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 2 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C2&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 3 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C3&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 4 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C4&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 5 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C5&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 6 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C6&body=Click+%27Submit+new+issue%27+to+make+your+move!) | [ **Drop 7 🔴** ](https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cdrop%7C7&body=Click+%27Submit+new+issue%27+to+make+your+move!) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
+| ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ | ⚪ |
 
-#### 🎯 Choose a move:
-| Piece | Destinations |
-| :--- | :--- |
-| ♞ **B8** | [C6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cb8c6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [A6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cb8a6&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♞ **G8** | [H6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cg8h6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [F6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cg8f6&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **A7** | [A6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Ca7a6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [A5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Ca7a5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **B7** | [B6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cb7b6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [B5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cb7b5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **C7** | [C6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cc7c6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [C5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cc7c5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **D7** | [D6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cd7d6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [D5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cd7d5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **E7** | [E6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Ce7e6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [E5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Ce7e5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **F7** | [F6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cf7f6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [F5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cf7f5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **G7** | [G6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cg7g6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [G5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Cg7g5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
-| ♟ **H7** | [H6](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Ch7h6&body=Click+%22Submit+new+issue%22+to+play+this+move!), [H5](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cmove%7Ch7h5&body=Click+%22Submit+new+issue%22+to+play+this+move!) |
+<br/>
 
-🔄 Need a reset? [**Start New Game**](https://github.com/kurui-ian/kurui-ian/issues/new?title=chess%7Cnew&body=Click+%22Submit+new+issue%22+to+start+a+new+game!)
+<p><b>You:</b> 🔴 You (Visitor) &nbsp;|&nbsp; <b>Opponent:</b> 🟡 Ian's AI Bot</p>
+<p>Need a reset? <a href="https://github.com/kurui-ian/kurui-ian/issues/new?title=connect4%7Cnew&body=Click+%27Submit+new+issue%27+to+start+a+new+game!">🔄 <strong>Start a New Game</strong></a></p>
 
-<details><summary><b>📜 Recent Moves</b></summary>
+<p><sub>⚡ Interactive GitHub Action Game: Clicking a column opens an issue that automatically drops your chip & triggers a counter-move!</sub></p>
 
-| Move | Player |
-| :---: | :---: |
-| `b1c3` | @kurui-ian |
+</div>
+
 </details>
-
-
-<!-- END CHESS -->
+<!-- END GAME -->
 
 <br/>
 
